@@ -265,63 +265,63 @@
 
 
   var prompts = [{
-      prompt: 'question.1',
+      prompt: 'Carrying balance on your credit card help your credit score ',
       weight: -1,
       class: 'group0'
     },
     {
-      prompt: 'question.1',
+      prompt: 'You need to have a lot of money to invest.',
       weight: -1,
       class: 'group1'
     },
     {
-      prompt: 'question.1',
-      weight: -1,
+      prompt: 'Weaker currency leads to stronger exports. ',
+      weight: 1,
       class: 'group2'
     },
     {
-      prompt: 'question.1',
+      prompt: 'Diversification in different asset classes is very important for any investor.',
       weight: -1,
       class: 'group3'
     },
     {
-      prompt: 'question.1',
-      weight: -1,
+      prompt: 'A will protects your estate from probate.',
+      weight: 1,
       class: 'group4'
     },
     {
-      prompt: 'question.1',
+      prompt: 'Having your own house is not an asset',
       weight: -1,
       class: 'group5'
     },
     {
-      prompt: 'question.1',
-      weight: 1,
+      prompt: 'Share market is nothing more than a gamble.',
+      weight: -1,
       class: 'group6'
     },
     {
-      prompt: 'question.1',
-      weight: 1,
+      prompt: 'Retirement planning doesn’t need focus until the age of 40',
+      weight: -1,
       class: 'group7'
     },
     {
-      prompt: 'question.1',
+      prompt: 'Credit cards are good for finances',
       weight: 1,
       class: 'group8'
     },
     {
-      prompt: 'question.1',
-      weight: 1,
+      prompt: 'Investing in equity is highly risky',
+      weight: -1,
       class: 'group9'
     },
     {
-      prompt: 'question.1',
-      weight: 1,
+      prompt: 'Financial planning is complex, and I do not require it',
+      weight: -1,
       class: 'group10'
     },
     {
-      prompt: 'question.1',
-      weight: 1,
+      prompt: 'You need to have a lot of money to invest.',
+      weight: -1,
       class: 'group11'
     }
 
