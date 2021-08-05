@@ -453,7 +453,7 @@
           weight = values[i].weight;
         }
       } else {
-        if (values[i].mvalue === value) {
+        if (values[i].value === value) {
           weight = values[i].weight;
         }
       }
